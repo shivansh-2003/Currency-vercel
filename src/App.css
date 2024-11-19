@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Arial", sans-serif;
+}
+
+h2 {
+  color: #007bff;
+}
+
+button {
+  width: 100%;
+}
+
+.alert {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
